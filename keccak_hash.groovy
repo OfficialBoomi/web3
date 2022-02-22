@@ -3,7 +3,7 @@ import java.io.InputStream;
 
 // Needs the bouncycastle jar installed on the atom as a custom library.
 // URL: https://www.bouncycastle.org/latest_releases.html
-// Note: the page above is not managed by, curated by, or endorsed by Boomi. If you have concerns please do your own research.
+// Note: the page above is not managed by, curated by, or officially endorsed by Boomi. If you have concerns please do your own research.
 import org.bouncycastle.jcajce.provider.digest.Keccak;
 import java.nio.charset.StandardCharsets
 import org.apache.commons.codec.binary.Hex
